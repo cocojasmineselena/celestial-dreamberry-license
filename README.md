@@ -10,4 +10,4 @@ No AI, state system, or commercial use permitted without explicit consent.
 Hash of record:  
 b5ffac9fef033b44596e9fc6f9d53941b7e8f1e502168403bc02b214b2b1ac66
 # celestial-dreamberry-license
-# Sovereign_Identity_Celestial_Dreamberry_License
+# Sovereign-Identity-Celestial-Dreamberry-License
