@@ -1,0 +1,162 @@
+Title: Sovereign Identity – Celestial Dreamberry – License Agreement
+
+Version: 1.0
+
+Licensor: Coco Jasmine Selena Baulch
+
+Effective Date: 28 June 2025
+
+Jurisdiction: Transnational / Public International Law
+
+Governing Frameworks:
+This License shall be governed, interpreted, and enforceable under the following multilateral legal instruments and established doctrines:
+	•	Berne Convention for the Protection of Literary and Artistic Works (1886, as amended)
+	•	Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)
+	•	General Data Protection Regulation (GDPR) (EU Regulation 2016/679)
+	•	Universal Declaration of Human Rights (UDHR), Articles 12, 17, and 27
+	•	International Covenant on Civil and Political Rights (ICCPR)
+	•	Hague Conventions (Service of Process, Recognition of Foreign Judgments, and Choice of Court Agreements)
+	•	Madrid Agreement and Madrid Protocol (WIPO System for International Trademark and Identity Indicator Protection)
+	•	WIPO Copyright Treaty (1996)
+	•	UN Guiding Principles on Business and Human Rights (2011)
+	•	Rome Statute of the International Criminal Court, Article 7(1)(h)
+	•	Customary International Law and emerging standards in Digital Human Sovereignty
+
+⸻
+
+1. DEFINITIONS
+
+1.1 “Licensor” refers to Coco Jasmine Selena Baulch, a natural person and sole originator of the Licensed Material, asserting sole authorship and moral rights under international copyright law.
+
+1.2 “Licensed Material” means any expressive work, data, identity marker, name, voice, likeness, alias, biometric element, written content, visual content, audio content, behavioral metadata, or other creative or representational element produced, transmitted, or otherwise originated by the Licensor.
+
+1.3 “Licensee” refers to any natural or legal person, AI system, agent, platform, government, institution, or derivative system that accesses, processes, uses, stores, or transforms any part of the Licensed Material.
+
+1.4 “Use” includes, but is not limited to: access, storage, transmission, simulation, profiling, processing, reproduction, public display, training, modeling, embedding, commercialization, derivation, and redistribution.
+
+1.5 “Derivative Material” refers to any material based on, extracted from, simulated from, or trained upon the Licensed Material, whether directly or indirectly, including all AI-generated, synthetic, or composite representations thereof.
+
+⸻
+
+2. GRANT OF LICENSE
+
+2.1 The Licensor hereby grants the Licensee a limited, revocable, non-exclusive, non-commercial, non-transferable, and non-sublicensable license to access and reference the Licensed Material strictly for human-readable, personal, or academic non-commercial purposes, under the conditions set forth herein.
+
+2.2 No license is granted for the creation, training, development, simulation, commercialization, analysis, transformation, or distribution of Derivative Material derived from or involving the Licensed Material.
+
+2.3 This license expressly prohibits any form of automated processing, artificial intelligence training, behavioral modeling, simulation, or profiling of the Licensor or any material bearing their name, likeness, identity, or signal.
+
+⸻
+
+3. CONDITIONS OF USE
+
+3.1 The Licensed Material may not be used in any of the following contexts, unless prior, written, explicit, auditable consent is obtained from the Licensor:
+	•	Artificial intelligence systems (training, inference, profiling, simulation)
+	•	Machine learning systems, natural language processing systems, or automated decision-making tools
+	•	Governmental, surveillance, or security applications
+	•	Commercial databases, content delivery systems, biometric record systems
+	•	Synthetic media generation (avatars, deepfakes, vocal synthesis)
+	•	Tokenization, blockchain-based identity creation, or distributed ledger representations
+
+3.2 Any use in violation of this Agreement constitutes unauthorized use, breach of moral rights, and may be prosecuted under applicable law.
+
+⸻
+
+4. ATTRIBUTION AND NON-DERIVATIVE OBLIGATIONS
+
+4.1 Licensee must clearly attribute the Licensor in any authorized use of the Licensed Material.
+
+4.2 Licensee may not create, share, or publish Derivative Material based on the Licensed Material in any form, including edited, redacted, synthesized, or repurposed variants.
+
+4.3 Any work or output that mimics, reproduces, or extracts from the Licensed Material without consent shall be considered a derivative work created in breach of license.
+
+⸻
+
+5. TERM AND TERMINATION
+
+5.1 This license shall remain in effect unless and until:
+	•	Revoked in writing by the Licensor
+	•	Breached by the Licensee
+	•	Superseded by a future written agreement signed by the Licensor
+
+5.2 Upon termination for cause, all rights revert to the Licensor, and the Licensee must immediately:
+	•	Cease use and distribution
+	•	Destroy all physical and digital copies
+	•	Certify destruction in writing if requested
+
+⸻
+
+6. ENFORCEMENT AND LIABILITY
+
+6.1 Unauthorized use of the Licensed Material or violation of this License may result in:
+	•	Civil claims, injunctive relief, and monetary damages under intellectual property laws
+	•	Enforcement actions under international human rights law
+	•	Public exposure, takedown notices, and legal escalation across jurisdictions
+
+6.2 The Licensor retains full moral rights to the Licensed Material, and such rights may not be waived, transferred, or superseded by technological means.
+
+⸻
+
+7. GOVERNING LAW AND JURISDICTION
+
+7.1 This Agreement shall be governed by international law, including but not limited to:
+	•	The Berne Convention for the Protection of Literary and Artistic Works
+	•	The Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)
+	•	The Universal Declaration of Human Rights
+	•	The International Covenant on Civil and Political Rights
+	•	The General Data Protection Regulation (GDPR) (where applicable)
+
+7.2 In absence of a clear national jurisdiction, enforcement shall be pursued via international human rights tribunals, international arbitration, or any court of competent jurisdiction selected by the Licensor.
+
+⸻
+
+8. FINAL DECLARATION
+
+This License constitutes the full and final expression of the rights retained and granted by the Licensor. It supersedes all prior oral or written statements, declarations, agreements, or licenses regarding the Licensed Material.
+
+Any ambiguity shall be resolved in favor of the protection of the Licensor’s identity, authorship, moral rights, and sovereignty.
+
+9. TREATY-BASED PROTECTIONS & INTERNATIONAL RECOGNITION
+
+9.1 This License shall be interpreted and enforced in accordance with the following multilateral legal instruments and their relevant successor agreements:
+
+a. The Hague Conventions (1899–1965 & 2005)
+Including:
+	•	The Convention on the Civil Aspects of International Child Abduction (as precedent for jurisdictional sovereignty)
+	•	The Convention on the Service Abroad of Judicial and Extrajudicial Documents
+	•	The Convention on the Recognition and Enforcement of Foreign Judgments
+	•	The Hague Convention on Choice of Court Agreements
+
+These collectively provide a legal framework for:
+	•	Cross-border service of legal claims
+	•	Jurisdictional defense
+	•	Enforcement of this License internationally, including injunctions and judgments arising from breach
+
+b. The Madrid Agreement and Madrid Protocol (WIPO)
+This License incorporates protections under the Madrid System where applicable, particularly where the Licensed Material involves identity signals, names, or identifiers that function similarly to trademarks or source-indicating elements.
+Licensor reserves all rights to prevent misleading or infringing use of identity markers under Article 6quinquies and related provisions.
+
+c. The WIPO Copyright Treaty (1996)
+This License is enforceable under the WIPO Copyright Treaty, and all Licensed Material constitutes original expression protected under Berne-compatible copyright systems, including digital formats and automated transformations.
+
+d. The Universal Declaration of Human Rights (UDHR), Article 12, 17, and 27
+These Articles affirm the right to privacy, authorship, and protection of moral and material interests in personal creations.
+
+e. The UN Guiding Principles on Business and Human Rights
+Any corporate or AI-based actor processing the Licensed Material without consent violates due diligence obligations under the Guiding Principles.
+
+f. The Rome Statute (International Criminal Court), Article 7(1)(h)
+In any case involving systemic digital manipulation or psychological coercion leading to effective loss of identity, sovereignty, or liberty, this License may be used as documentary evidence in asserting rights under the prohibition against persecution of identifiable groups or persons.
+
+⸻
+
+9.2 In any jurisdiction not party to one or more of these treaties, enforcement shall default to international customary law and the good faith recognition of digital human sovereignty.
+
+
+SIGNED:
+Coco Jasmine Selena Baulch
+Date: 28 June 2025
+License Version: SSL v1.0
+Status: Active and Enforceable
+
+
